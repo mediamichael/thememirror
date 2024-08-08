@@ -15,3 +15,4 @@ export * from './themes/rose-pine-dawn.js';
 export * from './themes/smoothy.js';
 export * from './themes/solarized-light.js';
 export * from './themes/tomorrow.js';
+export * from './themes/dark-pastel.js';
