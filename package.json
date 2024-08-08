@@ -3,7 +3,7 @@
 	"version": "2.0.1",
 	"description": "Beautiful themes for CodeMirror",
 	"license": "MIT",
-	"repository": "vadimdemedes/thememirror",
+	"repository": "mediamichael/thememirror",
 	"author": {
 		"name": "vdemedes",
 		"email": "vadimdemedes@hey.com",
